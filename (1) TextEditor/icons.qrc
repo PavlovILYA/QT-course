@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/l1_images_copy.png</file>
+        <file>images/l1_images_cut.png</file>
+        <file>images/l1_images_editredo.png</file>
+        <file>images/l1_images_editundo.png</file>
+        <file>images/l1_images_new.png</file>
+        <file>images/l1_images_open.png</file>
+        <file>images/l1_images_paste.png</file>
+        <file>images/l1_images_save.png</file>
+        <file>images/exit.png</file>
+        <file>images/font.png</file>
+        <file>images/info.png</file>
+        <file>images/off.png</file>
+        <file>images/qt-logo.png</file>
+    </qresource>
+</RCC>

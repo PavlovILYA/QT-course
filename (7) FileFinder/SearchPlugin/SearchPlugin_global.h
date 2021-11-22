@@ -1,0 +1,12 @@
+#ifndef SEARCHPLUGIN_GLOBAL_H
+#define SEARCHPLUGIN_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(SEARCHPLUGIN_LIBRARY)
+#  define SEARCHPLUGIN_EXPORT Q_DECL_EXPORT
+#else
+#  define SEARCHPLUGIN_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // SEARCHPLUGIN_GLOBAL_H

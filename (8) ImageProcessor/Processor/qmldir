@@ -1,0 +1,2 @@
+module ProcessingPlugin
+plugin Processor
