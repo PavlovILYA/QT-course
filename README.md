@@ -2,5 +2,5 @@
 some completed tasks from MEPhI QT course
 
 ```
-Курс “Системное прикладное программное обеспечение”
+"System Application Software" Course
 ```
